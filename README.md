@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Tensorflow, Sklearn, Keras**
 
-<h3 align="left">Connect with me: tg @kirill_de_franco </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
