@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Science cource**
 
-- 🌱 I’m currently learning **Python, Tensorflow, Sklearn, Keras**
+- 🌱 I’m currently learning **Python, Tensorflow, Sklearn, Keras, C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
