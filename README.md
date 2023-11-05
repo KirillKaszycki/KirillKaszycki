@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">A passionate Data Scientist and Product Analyst</h3>
 
-- 🔭 I’m currently working on **Incab**
+- 🔭 I’m currently working for **Incab** as a Data Scientist
 
 - 🌱 I’m currently learning **Tensorflow, MLOps**
 
