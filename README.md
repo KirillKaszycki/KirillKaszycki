@@ -9,6 +9,20 @@
 
 - 📫 How to reach me **kashitskii.kirill@gmail.com**
 
+  <br/><br/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kirill-kashitskii-472386255/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kirill-kashitskii-472386255/">
+    <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
+  </a>
+  <a href="https://t.me/kirill_de_franco">
+    <img src="https://img.shields.io/badge/Tg-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="CV"/>
+  </a>
+</div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
