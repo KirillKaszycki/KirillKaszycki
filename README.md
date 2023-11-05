@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
   <br/><br/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/kirill-kashitskii-472386255/">
