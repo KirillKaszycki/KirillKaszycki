@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/kirill-kashitskii-472386255/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/kirill-kashitskii-472386255/">
+  <a href="https://drive.google.com/file/d/1cUNbMARUFPROyuQkNktyHMy7t8Z-kCRo/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
   </a>
   <a href="https://t.me/kirill_de_franco">
