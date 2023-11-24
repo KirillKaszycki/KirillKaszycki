@@ -35,8 +35,8 @@
 
 
 
-###  Проекты:
-| Название | Инструменты |
+###  Data Science Projects:
+| Name | Technologies |
 | :--------: | :-------: |
 |[SQL Investment Data Base](https://github.com/KirillKaszycki/Yandex_Practicum/tree/main/Projects/14_SQL) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
 |[Модель прогнозирования вероятности заболевания](https://github.com/KirillKaszycki/hypertension_classifier) |<img src="https://img.shields.io/badge/TensorFlow-orange?style=flat-square"/><img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/>|
