@@ -50,3 +50,9 @@
 |[Проверка статистических гипотез для сервиса аренды самокатов](https://github.com/KirillKaszycki/Yandex_Practicum/tree/main/Projects/04_Statistical_Data_Analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/SciPy-yellow?style=flat-square"/>|
 |[Прогнозирование котировок акций KO с помощью временных рядов](https://github.com/KirillKaszycki/stock_analysis) |<img src="https://img.shields.io/badge/statsmodels-black?style=flat-square&"/><img src="https://img.shields.io/badge/Scikitlearn-black?style=flat-square&logo=scikitlearn&logoColor=yellow"/>|
 |[Линейная регрессия изнутри на С++](https://github.com/KirillKaszycki/LinearModelStudying/tree/main/ML%20Algorithms) |<img src="https://img.shields.io/badge/%D0%A1++-black?style=flat-square"/><img src="https://img.shields.io/badge/%D0%A1Make-orange?style=flat-square"/>|
+
+
+###  iOS Projects:
+| Name | Technologies |
+| :--------: | :-------: |
+|[Movie Quiz App](https://github.com/KirillKaszycki/MovieQuiz-ios/tree/sprint_04) |<img src="https://img.shields.io/badge/orange?style=flat-square&logo=swift&logoColor=white"/>|
