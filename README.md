@@ -55,4 +55,4 @@
 ###  iOS Projects:
 | Name | Technologies |
 | :--------: | :-------: |
-|[Movie Quiz App](https://github.com/KirillKaszycki/MovieQuiz-ios/tree/sprint_04) |<img src="https://img.shields.io/badge/orange?style=flat-square&logo=swift&logoColor=white"/>|
+|[Movie Quiz App](https://github.com/KirillKaszycki/MovieQuiz-ios/tree/sprint_04) |<img src="https://img.shields.io/badge/Swift-orange?style=flat-square"/>|
