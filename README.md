@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for **Incab** as a Data Scientist
 
-- 🌱 I’m currently learning **Tensorflow, MLOps**
+- 🌱 I’m currently learning **Tensorflow, MLOps, iOS Development**
 
 - 💬 Ask me about **Machine Learning and Data Analysis**
 
