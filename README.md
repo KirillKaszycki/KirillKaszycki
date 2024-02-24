@@ -59,4 +59,4 @@
 ###  iOS Projects:
 | Name | Technologies |
 | :--------: | :-------: |
-|[Movie Quiz App](https://github.com/KirillKaszycki/MovieQuiz-ios/tree/sprint_04) |<img src="https://img.shields.io/badge/Swift-orange?style=flat-square"/><img src="https://img.shields.io/badge/UIKit-red?style=flat-square"/><img src="https://img.shields.io/badge/HTTP-yellow?style=flat-square"/><img src="https://img.shields.io/badge/AutoLayout-black?style=flat-square"/>|
+|[Movie Quiz App](https://github.com/KirillKaszycki/MovieQuiz-ios/tree/sprint_04) |<img src="https://img.shields.io/badge/Swift-orange?style=flat-square"/><img src="https://img.shields.io/badge/UIKit-red?style=flat-square"/><img src="https://img.shields.io/badge/HTTP-yellow?style=flat-square"/><img src="https://img.shields.io/badge/AutoLayout-black?style=flat-square"/><img src="https://img.shields.io/badge/GCD-orange?style=flat-square"/><img src="https://img.shields.io/badge/UserDefaults-yellow?style=flat-square"/>|
