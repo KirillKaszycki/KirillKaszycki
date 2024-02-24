@@ -39,7 +39,6 @@
 
 
 
-
 ###  Data Science Projects:
 | Name | Technologies |
 | :--------: | :-------: |
