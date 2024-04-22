@@ -2,11 +2,7 @@
 <h3 align="center">A passionate Data Scientist and Product Analyst</h3>
 
 - 🔭 I’m currently working for **Incab** as a Data Scientist
-
-- 🌱 I’m currently learning **Tensorflow, MLOps, iOS Development**
-
-- 💬 Ask me about **Machine Learning and Data Analysis**
-
+- 🌱 I’m currently learning **Product Analysis, MLOps, iOS Development**
 - 📫 How to reach me **kashitskii.kirill@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
