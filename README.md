@@ -39,7 +39,6 @@
 ###  Data Science Projects:
 | Name | Technologies |
 | :--------: | :-------: |
-|[SQL Investment Data Base](https://github.com/KirillKaszycki/Yandex_Practicum/tree/main/Projects/14_SQL) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
 |[Модель прогнозирования вероятности заболевания](https://github.com/KirillKaszycki/hypertension_classifier) |<img src="https://img.shields.io/badge/TensorFlow-orange?style=flat-square"/><img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/>|
 |[Обработка фотографий компьютерным зрением](https://github.com/KirillKaszycki/CNN_on_ResNet_arc) |<img src="https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras&logoColor=red"/><img src="https://img.shields.io/badge/Python-Blue?style=flat-square&logo=pythony&logoColor=yellow"/>|
 |[Классификация токсичных комментариев](https://github.com/KirillKaszycki/Yandex_Practicum/tree/main/Projects/13_Natural_Language_Processing) |<img src="[https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy&logoColor=orange](https://img.shields.io/badge/Scikitlearn-black?style=flat-square&logo=scikitlearn&logoColor=yellow)"/><img src="https://img.shields.io/badge/TQDM-black?style=flat-square&logo=tqdm&logoColor=orange"/>|
