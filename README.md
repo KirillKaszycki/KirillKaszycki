@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">A passionate Data Scientist and Product Analyst</h3>
 
-- 🔭 I’m currently working for **Incab** as a Data Scientist
+- 🔭 I’m currently working for **Ecom.tech** as a Analyst
 - 🌱 I’m currently learning **Product Analysis, MLOps, iOS Development**
 - 📫 How to reach me **kashitskii.kirill@gmail.com**
 
