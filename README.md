@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
-<h3 align="center">A passionate Data Scientist and Product Analyst</h3>
+<h3 align="center">A passionate Product manager and Product Analyst</h3>
 
-- 🔭 I’m currently working for **Ecom.tech** as a Analyst
-- 🌱 I’m currently learning **Product Analysis, MLOps, iOS Development**
+- 🔭 I’m currently working for **<Censored>** as an Analyst
+- 🌱 I’m currently learning **Product Analysis, ML, Software Development**
 - 📫 How to reach me **kashitskii.kirill@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
